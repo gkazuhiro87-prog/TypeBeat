@@ -102,6 +102,10 @@ TypeBeat/
 ├── icone.ico
 └── README.md
 ```
+Demonstration:
+
+<img width="1102" height="874" alt="Image" src="https://github.com/user-attachments/assets/3ef0a111-3216-456b-9b24-cf9599cf3886" />
+
 
 ## 📌 Notes
 
